@@ -17,7 +17,7 @@ https://github.com/Crosstalk-Solutions/project-nomad
 | United Kingdom | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/uk_20260510.pmtiles` | Available |
 | Portugal | `` | Soon |
 | Spain | `` | Soon |
-| Netherlands | `` | Soon |
+| Netherlands | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/netherlands_20260510.pmtiles` | Available |
 
 ---
 
