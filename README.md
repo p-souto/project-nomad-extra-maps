@@ -15,15 +15,15 @@ https://github.com/Crosstalk-Solutions/project-nomad
 | Region | File | Status |
 |---|---|---|
 | United Kingdom | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/uk_20260510.pmtiles` | Available |
-| Ireland | `` | Soon |
 | Portugal | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/portugal_20260510.pmtiles` | Available |
 | Spain | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/spain_20260331.pmtiles` | Available |
-| France | `` | Soon |
-| Germany | `` | Soon |
 | Belgium | `` | Soon |
-| Italy | `` | Soon |
+| Ireland | `` | Soon |
 | Netherlands | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/netherlands_20260510.pmtiles` | Available |
 | Switzerland | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/netherlands_20260510.pmtiles` | Available |
+| Germany | `` | Soon |
+| France | `` | Soon |
+| Italy | `` | Soon |
 
 
 ---
