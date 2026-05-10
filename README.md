@@ -37,7 +37,7 @@ Paste the download URL for the region you want.
 
 The maps are generated from the Protomaps Basemap v4 dataset:
 
-* https://download.geofabrik.de/
+* https://docs.protomaps.com/basemaps
 
 Current Regions used:
 
