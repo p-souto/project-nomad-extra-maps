@@ -1,4 +1,4 @@
-# Project N.O.M.A.D. Offline Maps - UK, Portugal and Spain - WORK IN PROGRESS
+# Project N.O.M.A.D. Offline Maps - UK, Portugal, Spain and Netherlands
 
 Additional offline PMTiles map packs for Project N.O.M.A.D.
 
@@ -17,7 +17,7 @@ https://github.com/Crosstalk-Solutions/project-nomad
 | United Kingdom | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/uk_20260510.pmtiles` | Available |
 | Portugal | `` | Soon |
 | Spain | `` | Soon |
-| Netherland | `` | Soon |
+| Netherlands | `` | Soon |
 
 ---
 
@@ -35,15 +35,24 @@ Paste the download URL for the region you want.
 
 # Map Source
 
-Map data is derived from OpenStreetMap extracts provided by Geofabrik:
+The maps are generated from the Protomaps Basemap v4 dataset:
 
-https://download.geofabrik.de/
+* https://download.geofabrik.de/
 
-Regions used:
+Current Regions used:
 
 - United Kingdom
 - Portugal
 - Spain
+- Netherlands
+
+---
+
+# Tooling
+
+Regional extracts are generated using the go-pmtiles CLI tool:
+
+* https://github.com/protomaps/go-pmtiles/releases
 
 ---
 
