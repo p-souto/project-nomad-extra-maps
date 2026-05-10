@@ -1,4 +1,4 @@
-# Project N.O.M.A.D. Offline Maps - UK, Portugal and Spain
+# Project N.O.M.A.D. Offline Maps - UK, Portugal and Spain - WORK IN PROGRESS
 
 Additional offline PMTiles map packs for Project N.O.M.A.D.
 
