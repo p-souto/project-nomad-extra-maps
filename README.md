@@ -25,10 +25,10 @@ https://github.com/Crosstalk-Solutions/project-nomad
 | Czechia | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/czechia.pmtiles` | 912 MB | Available |
 | Denmark | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/denmark.pmtiles` | 459 MB | Available |
 | Estonia | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/estonia.pmtiles` | 161 MB | Available |
-| France Northeast | `` | N/A | Coming soon |
-| France Northwest | `` | N/A | Coming soon |
-| France Southeast | `` | N/A | Coming soon |
-| France Southwest | `` | N/A | Coming soon |
+| France Northeast | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/france_northeast.pmtiles` | 1.34 GB | Available |
+| France Northwest | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/france_northwest.pmtiles` | 863 MB | Available |
+| France Southeast | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/france_southeast.pmtiles` | 991 MB | Available |
+| France Southwest | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/france_southwest.pmtiles` | 940 MB | Available |
 | Finland | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/finland.pmtiles` | 1.36 GB | Available |
 | Germany Northeast | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/germany_northeast.pmtiles` | 573 MB | Available |
 | Germany Northwest | `https://github.com/p-souto/project-nomad-extra-maps/releases/download/v1/germany_northwest.pmtiles` | 931 MB | Available |
