@@ -10,7 +10,7 @@ https://github.com/Crosstalk-Solutions/project-nomad
 
 ---
 
-## Countries & Regions (z14)
+## Countries & Regions (z14) - 2026-05-10
 
 | Region | File | Size | Status |
 |---|---|---|---|
@@ -72,7 +72,7 @@ https://github.com/Crosstalk-Solutions/project-nomad
 
 ---
 
-## City Packs (z15)
+## City Packs (z15) - 2026-05-10
 
 | City | File | Size | Status |
 |---|---|---|---|
